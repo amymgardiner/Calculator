@@ -32,3 +32,12 @@
     background-color: white;
     box-shadow: 10px 10px 30px #A0C3D2, -10px -10px 30px #ffff;
 }
+
+.calculator--container_display-box{
+    width: 24rem;
+    height: min-content;
+    overflow-y: auto;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    text-align: right;
+}
