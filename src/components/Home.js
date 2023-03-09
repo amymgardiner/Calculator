@@ -1,15 +1,15 @@
 import React from 'react'
-import "./Home.css"
+import classes from "./Home.module.css"
 
 function Home() {
     return (
-        <div className='calculator'>
-            <div className='calculator--container'>
-                <div className='calculator--container_display'>
-                    <div className='calculator--container_display-box'></div>
+        <div className={classes.homepage}>
+            <div className={classes.calculator}>
+                <div className={classes.display}>
+                    <div className={classes.displaybox}></div>
                 </div>
             </div>
-            <div className='calculator--buttons'></div>
+            <div className={classes.buttons}></div>
         </div>
     )
 }

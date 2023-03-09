@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.calculator{
+.homepage{
     height: 100vh;
     width: 100vw;
     display: flex;
@@ -12,7 +12,7 @@
     align-items: center;
 }
 
-.calculator--container{
+.calculator{
     height: 40rem;
     width: 27rem;
     border-radius: 2rem;
@@ -20,7 +20,7 @@
     box-shadow: 20px 20px 60px #A0C3D2, -20px -20px 60px #ffff;
 }
 
-.calculator--container_display{
+.display{
     font-size: 2rem;
     width: 25rem;
     height: 5.5rem;
@@ -33,7 +33,7 @@
     box-shadow: 10px 10px 30px #A0C3D2, -10px -10px 30px #ffff;
 }
 
-.calculator--container_display-box{
+.display-box{
     width: 24rem;
     height: min-content;
     overflow-y: auto;
