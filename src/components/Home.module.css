@@ -33,11 +33,21 @@
     box-shadow: 10px 10px 30px #A0C3D2, -10px -10px 30px #ffff;
 }
 
-.display-box{
+.displayBox{
     width: 24rem;
     height: min-content;
     overflow-y: auto;
     padding-left: 0.75rem;
     padding-right: 0.75rem;
     text-align: right;
+}
+
+.buttons{
+    height: 33rem;
+    width: 26.5rem;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
 }
