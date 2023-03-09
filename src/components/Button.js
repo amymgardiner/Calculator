@@ -3,7 +3,7 @@ import classes from './Button.module.css';
 
 function Button({value}) {
     return (
-        <div className={classes.calcButtons}>
+        <div className={value == "C" || value == "=" ? `${classes.calcButtons} ${classes.accentButtons}` : `${classes.calcButtons}`}>
             {value}
         </div>
     );

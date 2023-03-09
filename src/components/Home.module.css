@@ -47,7 +47,7 @@
     width: 26.5rem;
     display: flex;
     flex-flow: row wrap;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     border-radius: 2rem;
 }

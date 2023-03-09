@@ -4,7 +4,7 @@ import Button from './Button';
 
 function Home() {
 
-    const buttons = ["C","/","*","+","-","9","8","7","6","5","4","3","2","1","0",".","Del","="];
+    const buttons = ["C","9","/","8","7","6","*","5","4","3","+","2","1","0","-",".","Del","="];
 
     return (
         <div className={classes.homepage}>
