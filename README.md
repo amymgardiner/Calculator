@@ -7,8 +7,6 @@ I coded along to [this Udemy course](https://www.udemy.com/share/106GOe3@-rwgfG7
 ## View App
 Feel free to view and try out the app yourself.
 
-<a href="https://bright-centaur-2a6740.netlify.app" target="_blank" rel="noreferrer noopener">Deployed App Link</a>
-
 [Deployed App Link](https://bright-centaur-2a6740.netlify.app)
 
 ![localhost_3000_](https://user-images.githubusercontent.com/99151426/224149743-674670c2-9b13-4de5-974a-d0e27d77453a.png)
