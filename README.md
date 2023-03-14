@@ -9,4 +9,4 @@ Feel free to view and try out the app yourself.
 
 [Deployed App Link](https://bright-centaur-2a6740.netlify.app)
 
-![localhost_3000_](https://user-images.githubusercontent.com/99151426/224149743-674670c2-9b13-4de5-974a-d0e27d77453a.png)
+![2023-03-14 (2)](https://user-images.githubusercontent.com/99151426/225070884-3f457174-69d4-46f4-a97f-6bf81c1721c0.png)
