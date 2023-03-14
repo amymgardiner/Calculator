@@ -6,7 +6,7 @@ function Home() {
 
     const [res, setRes] = useState("")
 
-    const buttons = ["C","9","/","8","7","6","*","5","4","3","+","2","1","0","-",".","Del","="];
+    const buttons = ["C","Del","/","9","8","7","*","6","5","4","+","3","2","1","-",".","0","="];
 
     const findValue = ()=> {
         let result = Function("return "+res)();
